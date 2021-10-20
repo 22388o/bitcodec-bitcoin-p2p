@@ -1,0 +1,11 @@
+{
+  "name": "@bitmatrix/bitcodec-bitcoin-p2p",
+  "version": "1.0.0",
+  "description": "bitcodec bitcoin p2p",
+  "main": "index.js",
+  "dependencies": {
+    "@bitmatrix/bitcodec": "^1.0.0",
+    "@bitmatrix/bitcodec-bitcoin": "^1.0.0"
+  },
+  "license": "MIT"
+}
